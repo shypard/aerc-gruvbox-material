@@ -1,7 +1,12 @@
 # aerc gruvbox-material theme
 
 Inspired by https://github.com/sainnhe/gruvbox-material, this repository
-contains the gruvbox material theme for the mail client `aerc`.
+contains the gruvbox material theme for the mail client `aerc`. The following
+screenshot shows an example for the styleset `gruvbox_material_dark_soft`.
+
+<center>
+    <img src="images/screenshot-1.png" width=50%></img>
+</center>
 
 ## Usage
 
